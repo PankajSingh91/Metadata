@@ -1,12 +1,12 @@
 {
-  "description": "My Token", 
+  "description": "Sniper", 
   "external_url": "https://openseacreatures.io/3", 
   "image": "https://ipfs.io/ipfs/bafkreicoednebsmhlzuxf2cbnw5iv6bxkzqvi4ut2tscpkxbqibtodclri", 
-  "name": "P26",
+  "name": "LW3 Tundra - Lux Violenta",
   "attributes": [
     {
       "trait_type": "Rarity",
-      "value": "Legendary"
+      "value": "Epic"
     }
   ]
 }

@@ -1,0 +1,12 @@
+{
+  "description": "Meele", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://ipfs.io/ipfs/bafkreifaa2uvi6k7ynqpfueewe6p3vm4fvs4ql457z7yyekkjcinhi6soe", 
+  "name": "Stun Baton - Surge Baton",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ]
+}

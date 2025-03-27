@@ -1,0 +1,12 @@
+{
+  "description": "LMG", 
+  "external_url": "https://openseacreatures.io/3", 
+  "image": "https://ipfs.io/ipfs/bafkreibo2l6wldh7d3p3xfbufvalouu3e6sl33zf3asposbw64qik7cyca", 
+  "name": "Dingo - Gemmed Beast",
+  "attributes": [
+    {
+      "trait_type": "Rarity",
+      "value": "Epic"
+    }
+  ]
+}
